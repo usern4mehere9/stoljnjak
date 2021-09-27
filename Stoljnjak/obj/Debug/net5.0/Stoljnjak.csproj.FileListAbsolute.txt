@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\Stoljnjak.exe
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\Stoljnjak.deps.json
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\Stoljnjak.runtimeconfig.json
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\Stoljnjak.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\Stoljnjak.dll
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\ref\Stoljnjak.dll
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\bin\Debug\net5.0\Stoljnjak.pdb
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.dll
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\ref\Stoljnjak.dll
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.pdb
+C:\Users\Nikola\source\repos\Stoljnjak\Stoljnjak\obj\Debug\net5.0\Stoljnjak.genruntimeconfig.cache
